@@ -1,2 +1,4 @@
 # test1
-This is a test repo
+Test project repo
+
+--this is a repository for Python Project 1
